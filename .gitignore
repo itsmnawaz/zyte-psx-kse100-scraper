@@ -1,0 +1,9 @@
+.vscode/
+.vscode/*
+venv/
+.env
+kse100_stocks.json
+# Scrapy settings file
+__pycache__/
+spiders/__pycache__/
+

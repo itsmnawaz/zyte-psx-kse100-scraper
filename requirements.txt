@@ -1,0 +1,3 @@
+python-dotenv
+scrapy>=2.11
+scrapy-zyte-api>=0.23
